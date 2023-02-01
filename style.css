@@ -126,7 +126,7 @@ nav{
     position: absolute;
     right: 10%;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-50%);        
     text-align: center;
 }
 .controls h3{
